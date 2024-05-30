@@ -1,3 +1,4 @@
+
 let moveUp;             //Ohjauksessa käytettävät muuttujat.
 let moveDown;
 let moveLeft;
